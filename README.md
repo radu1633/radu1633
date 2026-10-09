@@ -15,7 +15,7 @@ MSc NLP student @ University of Bucharest. I fine-tune transformers (BERT, QLoRA
 
 ## Stack
 
-Python · PyTorch · Hugging Face (Transformers, PEFT) · scikit-learn · LightGBM · FastAPI · Docker · PostgreSQL · AWS
+Python · PyTorch · Hugging Face (Transformers, PEFT) · scikit-learn · LightGBM · FastAPI · Docker · PostgreSQL
 
 ## Contact
 
